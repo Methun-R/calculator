@@ -1,0 +1,12 @@
+#box{
+        position: absolute;
+        border: 3px solid black;
+        width: 300px;
+        height: 340px;
+        border-radius: 0% 0% 0% 0% ;
+        margin: 0 auto;
+        margin-top: 80px;
+        margin-bottom: 80px;
+        left: 280px;
+        background-color: lightsalmon;
+}
